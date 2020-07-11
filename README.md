@@ -12,3 +12,6 @@ This Machine Learning project is based on the unstructured data which includes, 
 
 # Contributor
 [AISHWARYA NAYAK](https://github.com/A1SHWARYANAYAK)
+
+
+[DOWNLOAD TEST AND TRAINING DATA FOR DOG BREEDS HERE](https://www.kaggle.com/c/dog-breed-identification/data)
